@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "dd-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DataDog/dd-sdk-ios",
+      "state" : {
+        "revision" : "21b62371bdbd40747ef1c3b47ea0f2fd6f154eb1",
+        "version" : "1.23.0"
+      }
+    },
+    {
+      "identity" : "kmp-nativecoroutines",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rickclephas/KMP-NativeCoroutines.git",
+      "state" : {
+        "revision" : "77dca3f4b23b377caa65a9f24285eaf6e09a3bcf",
+        "version" : "1.0.0-ALPHA-20"
+      }
+    },
+    {
+      "identity" : "plcrashreporter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/plcrashreporter.git",
+      "state" : {
+        "revision" : "1aed8f7dc79ce8e674c61e430ef51ca3db18cea9",
+        "version" : "1.11.1"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+        "version" : "6.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
